@@ -1,5 +1,5 @@
 import Vue from 'vue';
-import App from '../../components/articles/show';
+import App from '../../components/articles/form';
 // import marked from 'marked';
 // import {renderer} from '../../pages/customMarkdown';
 
